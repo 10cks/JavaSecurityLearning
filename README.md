@@ -4,6 +4,10 @@
 
 # JavaSecurityLearning
 
+## 笔记
+
+[JSLN: JavaSecurityLearningNote](https://github.com/10cks/JavaSecurityLearningNote)
+
 ## Ref：
 
  https://github.com/Y4tacker/JavaSec
@@ -109,8 +113,6 @@ LDAP 是包含在 JNDI 里面的
 - [CVE-2017-10271 WebLogic XMLDecoder](https://drun1baby.top/2023/02/09/CVE-2017-10271-WebLogic-XMLDecoder/)
 - [CVE-2021-2109 WebLogic JNDI 注入](https://drun1baby.top/2023/02/12/CVE-2021-2109-WebLogic-JNDI-注入/)
 - [WebLogic 弱口令&文件上传&SSRF](https://drun1baby.top/2023/03/06/WebLogic-弱口令-文件上传-SSRF/)
-
-
 
 ## EL 表达式注入（本质上还是 OGNL 表达式注入）
 
